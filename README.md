@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Akashi42
+- 👋 Hi, I’m @Ezloz
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Python, C#
